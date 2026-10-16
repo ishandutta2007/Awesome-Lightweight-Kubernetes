@@ -64,9 +64,9 @@ Hosted and managed Kubernetes offerings sorted descending by company size (valua
 
 ## 🛠️ Open-Source Kubernetes Projects & Tools
 
-All repositories are curated specifically for low footprint, IoT/edge deployments, local staging, or container networking. Repositories are sorted descending by GitHub Star Count with direct links to stargazers.
+All repositories are curated specifically for low footprint, IoT/edge deployments, local staging, or container networking. Repositories are sorted descending by GitHub Stars_Count with direct links to stargazers.
 
-| Project 📦 | GitHub Stars ⭐ | Primary Purpose & Features 🎯 |
+| Project 📦 | GitHub_Stars ⭐ | Primary Purpose & Features 🎯 |
 | :--- | :--- | :--- |
 | **[Traefik](https://github.com/traefik/traefik)** | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | Modern cloud-native HTTP reverse proxy and ingress controller bundled into k3s by default for automated routing and SSL termination. |
 | **[Portainer](https://github.com/portainer/portainer)** | [![Stars](https://img.shields.io/github/stars/portainer/portainer?style=social&color=white)](https://github.com/portainer/portainer/stargazers) | Universal container management web UI for Docker, Swarm, and lightweight Kubernetes; makes edge cluster ops visual and intuitive. |
