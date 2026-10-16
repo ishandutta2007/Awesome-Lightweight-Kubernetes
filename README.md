@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Aeesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Lightweight-Kubernetes/pulls)
 [![Kubernetes Version](https://img.shields.io/badge/Kubernetes-v1.30%2B-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
@@ -30,6 +30,7 @@
 - [🛠️ Open-Source Kubernetes Projects & Tools](#️-open-source-kubernetes-projects--tools)
 - [🏗️ Recommended Architectural Stacks](#️-recommended-architectural-stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -126,9 +127,34 @@ We welcome contributions from edge enthusiasts, platform engineers, and open-sou
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and supporting **Awesome-Lightweight-Kubernetes**! 🎉
+
+Maintaining and curating high-quality open-source ecosystems takes time and community effort. If you find this repository valuable for your projects, learning, or production deployments, please consider supporting us:
+
+- ⭐ **Star this repository** to help others discover lightweight Kubernetes tools!
+- 🍴 **Fork and contribute** by adding new edge tools or keeping pricing up-to-date.
+- 📢 **Share with your team, network, or on social media** (Twitter, LinkedIn, Reddit, Discord).
+- ☕ **Buy a coffee & sponsor the project**: Support ongoing maintenance directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+<div align="center">
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+</div>
+
+---
+
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Lightweight-Kubernetes&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Lightweight-Kubernetes&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Lightweight-Kubernetes&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Lightweight-Kubernetes&type=date&legend=top-left)
 
 ---
 
